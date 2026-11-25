@@ -1,99 +1,44 @@
-![Jakub T. Jankiewicz ASCII banner](/assets/banner.svg)
+![Veer Solanki ASCII banner](/assets/banner.svg)
 
-Jakub T. Jankiewicz is a software engineer with over 15 years of experience in [open-source development](https://opensource.org/maintainers/jcubic),
-as well as an active [editor of Polish Wikipedia](https://pl.wikipedia.org/wiki/Wikipedysta:Jcubic), a guide for newcomers,
-and an [official trainer](https://pl.wikipedia.org/wiki/Wikipedia:WikiTrenerzy/Uczestnicy_i_uczestniczki)
-for the [Wikimedia Polska Association](https://wikimedia.pl/). He is the main author of the
-[WikiZEIT project](http://wikizeit.edu.pl/). He is also involved in [photography](https://www.flickr.com/people/jcubic/).
+Veer Solanki is a designer and full-stack developer from Faridabad, India, who also writes about tech and society.
+He co-founded [SpaceRock](https://spacerock.club), a student-run tech and science publication, writes on social and civic issues for
+[Les Comrades](https://www.lescomrades.com/), and designs and builds websites and web apps end to end, from Figma to deploy.
 
 ## About Me
-* I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, NextJS, and GraphQL.
-* <del>I'm in a process of writing a new [website and documentation for my project jQuery Terminal](https://github.com/jcubic/jquery.terminal-docs/), the website use React framework [Docusaurus](https://docusaurus.io).</del>
-* <del>I'm also working on new project called [Dialogue](https://github.com/jcubic/dialogue) - modular chat library.</del>
-* Working on [Hacking Cafe](https://hacking.cafe/) a "Fake" Unix-like environemnt in the browser.
-* Created [Mitty](https://github.com/jcubic/mitty) and [RO/RCP Specification](https://github.com/jcubic/rorpc) for remote object/method chains. 
-* I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
-* I have a Polish blog called ["Głównie JavaScript" (en. Mostly JavaScript)](https://jcubic.pl/), but I'm not active there anymore. Recently I started [a new personal blog](https://jcu.bi/blog) created using [Eleventy](https://www.11ty.dev/). I plan to be more active there. I will write programming articles but also about other topics that interest me.
+* I design it, build it, then write about it. I speak both Figma and git push.
+* Co-founded **SpaceRock** in 2025 with a team of writers from my class. I designed the brand and built the whole site: headless WordPress, React, Vite and Vercel.
+* Built **[Mirage](https://github.com/imveersolanki/Mirage)**, a sketch-to-layout frontend builder, with my team at the CodeStorm 2026 hackathon.
+* Researching AI hallucination: how large language models respond to questions about things that don't exist, and when they make things up versus admit they don't know.
+* Outside code: superheroes, video games, guitar and drawing.
 
-## Open Source Developer
-My most known Open Source library is [jQuery Terminal](https://terminal.jcubic.pl/), it has a long history and was started in about 2010. I've started working on [version 3.0](https://github.com/pure-terminal/pure-terminal) recently. I've planned it to be a complete rewrite in TypeScript without dependency on jQuery. I plan to use something modern like [Cash](https://github.com/fabiospampinato/cash) with a similar API. I also need to write better documentation and visual tests that are missing.
-
-I'm an Active Maintainer of the popular library [Isomorphic-git](https://isomorphic-git.org/).
-
-I have a list of articles that I want to write that will showcase my Open Source projects, for instance on FreeCodeCamp, where I've wrtten
-[few articles](https://www.freecodecamp.org/news/author/jcubic/).
-
-## SEO Specialist
-I have experience in SEO, I'm using my skills for promoting my Open Source projects to attract more users, I've even written an article that shows how to do that on your own.
-
-[How to Promote your Open Source Project with SEO](https://itnext.io/seo-for-open-source-projects-1a6b17ffeb8b)
-
-## Wikipedia Expert
-I'm Wikipedia Editor, WikiTrainer, mentor for newcomers. My education Wikipedia project is called [WikiZEIT](https://github.com/WikiZEIT). I'm also doing [Wikipedia consulations and traing](https://wikizeit.edu.pl/oferta/) (As part of my consultations, I also offer paid editing).
+## Projects
+| Project | What it is | Links |
+|---|---|---|
+| **Mirage** | Draw a box, get a component. Sketch-to-code builder with 34 themes | [Live](https://mirageui.vercel.app/) · [Code](https://github.com/imveersolanki/Mirage) |
+| **Ringer** | Multi timer: a looping interval bell and a plain countdown | [Live](https://ringtimer.vercel.app/) · [Code](https://github.com/imveersolanki/Ringtimer) |
+| **Uchaan Arts** | Website redesign for a contemporary Indian art gallery | [Live](https://uchaanarts.vercel.app/) · [Code](https://github.com/imveersolanki/Uchaanarts) |
+| **SiteDNA** | Open-source tool, MIT licensed | [Code](https://github.com/imveersolanki/SiteDNA) |
+| **SpaceRock** | Tech and science publication, designed and built from scratch | [Live](https://spacerock.club) |
 
 ## Tech Stack
 I work with:<br/>
-[![JavaScript, TypeScript, HTML, CSS, React, Redux, RegExp, Web Workers, jQuery, Markdown, Emotion, jest, GNU Emacs, Linux, Bash, Git, Vite, Webpack, Docker, MySQL, SQLite, GraphQL, Prisma, Firebase, Next, GitHub, Vercel, p5js, CodePen](https://skillicons.dev/icons?i=js,typescript,html,css,svg,react,redux,regex,workers,jquery,md,emotion,jest,emacs,linux,bash,git,vite,webpack,docker,mysql,sqlite,graphql,prisma,firebase,next,github,vercel,p5js,codepen&perline=6)](https://skillicons.dev)
+[![JavaScript, TypeScript, HTML, CSS, React, Next.js, Vite, Node.js, WordPress, PHP, Figma, Git, GitHub, Vercel, Linux](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,nodejs,wordpress,php,figma,git,github,vercel,linux&perline=8)](https://skillicons.dev)
 
-I also know:<br/>
-[![NodeJS, Python, PHP, Clojure, R, Ruby](https://skillicons.dev/icons?i=nodejs,python,php,clojure,r,ruby,sass)](https://skillicons.dev)
-
-## Tech Talk
-In 2023 I presented my Open Source project "LIPS Scheme" at FOSSDEM. Here is my [Speaker profile](https://fosdem.org/2023/schedule/speaker/jakub_t_jankiewicz/) and my presentation [LIPS Scheme: Powerful introspection and extensibility](https://fosdem.org/2023/schedule/event/lipsscheme/).
-
-## Paid Support
-As you can see in my profile I have a few Open Source projects and offer [Paid Support](https://support.jcubic.pl/). I can create a Web-Based Terminal for your website if you can't do that on your own. It will be based on my Open Source project [jQuery Terminal](https://terminal.jcubic.pl/), and may use my [Gaiman Programming Language](https://github.com/jcubic/gaiman).
+## Certifications
+* Claude Academy: Claude Code 101 · Claude 101 · AI Fluency: Framework and Foundations (Anthropic)
+* Content Marketing Certified (HubSpot Academy)
 
 ## Social Links
 
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/jcubic)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40'><img alt='linkedin logo' src='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40' height='40'></picture>](https://www.linkedin.com/in/jakubjankiewicz/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/facebook.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/facebook.svg?color=black&height=40'><img alt='facebook logo' src='https://api.iconify.design/simple-icons/facebook.svg?color=black&height=40' height='40'></picture>](https://www.facebook.com/jcubic)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/instagram.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/instagram.svg?color=black&height=40'><img alt='instagram logo' src='https://api.iconify.design/simple-icons/instagram.svg?color=black&height=40' height='40'></picture>](https://www.instagram.com/jcubic/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=black&height=40'><img alt='twitter logo' src='https://api.iconify.design/simple-icons/twitter.svg?color=black&height=40' height='40'></picture>](https://twitter.com/jcubic)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/codepen.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/codepen.svg?color=black&height=40'><img alt='codepen logo' src='https://api.iconify.design/simple-icons/codepen.svg?color=black&height=40' height='40'></picture>](https://codepen.io/jcubic)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/stackoverflow.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/stackoverflow.svg?color=black&height=40'><img alt='stackoverflow logo' src='https://api.iconify.design/simple-icons/stackoverflow.svg?color=black&height=40' height='40'></picture>](https://stackoverflow.com/users/387194/jcubic)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/reddit.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/reddit.svg?color=black&height=40'><img alt='Reddit logo' src='https://api.iconify.design/simple-icons/reddit.svg?color=black&height=40' height='40'></picture>](https://www.reddit.com/user/jcubic)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/icloud.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/icloud.svg?color=black&height=40'><img alt='website logo' src='https://api.iconify.design/simple-icons/icloud.svg?color=black&height=40' height='40'></picture>](https://jakub.jankiewicz.org/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/dribbble.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/dribbble.svg?color=black&height=40'><img alt='dribbble logo' src='https://api.iconify.design/simple-icons/dribbble.svg?color=black&height=40' height='40'></picture>](https://dribbble.com/jcubic/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/freecodecamp.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/freecodecamp.svg?color=black&height=40'><img alt='freecodecamp logo' src='https://api.iconify.design/simple-icons/freecodecamp.svg?color=black&height=40' height='40'></picture>](https://www.freecodecamp.org/news/author/jcubic/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/devdotto.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/devdotto.svg?color=black&height=40'><img alt='freecodecamp logo' src='https://api.iconify.design/simple-icons/devdotto.svg?color=black&height=40' height='40'></picture>](https://dev.to/jcubic)
-
-<a href="http://stackoverflow.com/users/387194/jcubic" title="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-<img src="https://stackoverflow.com/users/flair/387194.png" width="208" height="58" alt="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
-[![Algora profile](https://algora.io/og/user/jcubic)](https://algora.io/jcubic/profile)
+[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/imveersolanki)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/mdi/linkedin.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/mdi/linkedin.svg?color=black&height=40'><img alt='linkedin logo' src='https://api.iconify.design/mdi/linkedin.svg?color=black&height=40' height='40'></picture>](https://www.linkedin.com/in/veer-solanki-753244452/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40'><img alt='email logo' src='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40' height='40'></picture>](mailto:veersolanki1738@gmail.com)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/icloud.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/icloud.svg?color=black&height=40'><img alt='SpaceRock logo' src='https://api.iconify.design/simple-icons/icloud.svg?color=black&height=40' height='40'></picture>](https://spacerock.club)
 
 ## Software I use
 
-![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
-![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-A23C9A.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3.svg?style=for-the-badge&logo=kde&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## By [Personal Blog](https://jakub.jankiewicz.org/blog/) Posts
-<!--START_SECTION:main-->
-* [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
-* [The Importance of Questioning When Using AI Agents](https://jakub.jankiewicz.org/blog/questioning-ai/)
-* [My Advice to New Developers](https://jakub.jankiewicz.org/blog/programming-advice/)
-* [How to build zig book as PDF on Fedora?](https://jakub.jankiewicz.org/blog/zig-book-pdf/)
-* [How to Help Charities and Your Ego?](https://jakub.jankiewicz.org/blog/charity-bragging-page/)
-<!--END_SECTION:main-->
-
-## [WikiZEIT](https://wikizeit.edu.pl/) Posts in Polish (🇵🇱)
-<!--START_SECTION:wikizeit-->
-* [Gdzie czytać o Wikipedii? Przegląd blogów i serwisów.](https://wikizeit.edu.pl/blog/blogi-o-wikipedii/?utm_source=rss&utm_medium=feed)
-* [Piotr Konieczny z Niebezpiecznika miał zostać skasowany](https://wikizeit.edu.pl/blog/piotr-konieczny-skasowany/?utm_source=rss&utm_medium=feed)
-* [Biblioteka Wikipedii, skąd brać źródła?](https://wikizeit.edu.pl/blog/biblioteka-wikipedii/?utm_source=rss&utm_medium=feed)
-* [Jak poprawić widoczność marki osobistej w AI?](https://wikizeit.edu.pl/blog/widoczonosc-marki-osobistej-w-ai/?utm_source=rss&utm_medium=feed)
-* [Projekt Koszulki „Jestem w Wikipedii”](https://wikizeit.edu.pl/blog/jestem-w-wikipedii/?utm_source=rss&utm_medium=feed)
-* [Dokumentacja Eksponatów w Muzeum 'Domek Tkaczki'](https://wikizeit.edu.pl/blog/dokumentacja-eksponatow-domku-tkaczki/?utm_source=rss&utm_medium=feed)
-* [Jak napisać bota do Wikipedii](https://wikizeit.edu.pl/blog/bot-w-wikipdii/?utm_source=rss&utm_medium=feed)
-* [Konkursy Fotograficzne Wikimedia Commons](https://wikizeit.edu.pl/blog/konkursy-fotograficzne/?utm_source=rss&utm_medium=feed)
-* [Płatna Edycja Wikipedii w Polsce](https://wikizeit.edu.pl/blog/platne-edycje-wikipedii/?utm_source=rss&utm_medium=feed)
-* [Czy Wikipedia jest płatna? Wikimedia Enterprise i SEO](https://wikizeit.edu.pl/blog/wikipedia-enterprise/?utm_source=rss&utm_medium=feed)
-<!--END_SECTION:wikizeit-->
-
-## My Other Article
-<!--START_SECTION:other-->
-* [How to get access to DOM from Service Worker?](https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3)
-* [How to Build a Dark Mode Toggle Without JavaScript](https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/)
-* [How to Build a Zero-Cost Personal Project with PHP, Wasmer, and Cloudflare](https://www.freecodecamp.org/news/how-to-build-a-zero-cost-personal-project-with-php-wasmer-and-cloudflare/)
-* [How to Create a Table of Contents for Your Article](https://www.freecodecamp.org/news/how-to-create-a-table-of-contents-for-your-article/)
-* [Interview with me on Requestly Blog](https://requestly.com/blog/endpoint-ft-jakub-t-jankiewicz-a-pragmatic-guide-to-open-source-ai-and-the-sdlc/)
-* [My Open Source story @ opensource.org](https://opensource.org/maintainers/jcubic)
-* [How to Match Parentheses in JavaScript without Using Regex](https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/)
-* [How to Create a REST API Without a Server](https://www.freecodecamp.org/news/how-to-create-a-rest-api-without-a-server/)
-* [How to Create an Interactive Terminal-Based Portfolio Website](https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/)
-* [How to Parse S-expressions in JavaScript](https://www.freecodecamp.org/news/s-expressions-in-javascript/)
-<!--END_SECTION:other-->
+## Articles I've Written
+<!--START_SECTION:spacerock-->
+<!--END_SECTION:spacerock-->
