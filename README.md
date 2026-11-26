@@ -41,7 +41,3 @@ I work with:<br/>
 
 ## Writing
 I write about AI, tech and society on [SpaceRock](https://spacerock.club), cross-posted to [Medium](https://medium.com/@imveersolanki).
-
-## Articles I've Written
-<!--START_SECTION:spacerock-->
-<!--END_SECTION:spacerock-->
